@@ -1,0 +1,13 @@
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/rest/json/JsonToClientCompraDtoConversor.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/rest/RestClientPartidoService.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/ClientPartidoServiceFactory.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/rest/json/JsonToClientExceptionConversor.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/dto/ClientPartidoDto.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/exceptions/ClientInvalidNumTarjetaException.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/rest/json/JsonToClientPartidoDtoConversor.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/ui/AppServiceClient.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/exceptions/ClientAlreadyCollectException.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/ClientPartidoService.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/dto/ClientCompraDto.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/exceptions/ClientPartidoYaComenzadoException.java
+/home/alex/Escritorio/isd-035/ws-app-client/src/main/java/es/udc/ws/app/client/service/exceptions/ClientNoQuedanEntradasException.java
