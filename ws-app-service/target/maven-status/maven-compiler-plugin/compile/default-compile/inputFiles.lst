@@ -1,0 +1,9 @@
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/json/AppExceptionToJsonConversor.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/servlets/PartidoServlet.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/dto/RestPartidoDto.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/dto/PartidoToRestPartidoDtoConversor.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/servlets/CompraServlet.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/dto/CompraToRestCompraDtoConversor.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/json/JsonToRestCompraDtoConversor.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/json/JsonToRestPartidoDtoConversor.java
+/home/alex/Escritorio/isd-035/ws-app-service/src/main/java/es/udc/ws/app/restservice/dto/RestCompraDto.java
